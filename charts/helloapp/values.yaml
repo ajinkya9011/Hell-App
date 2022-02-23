@@ -5,7 +5,7 @@ image:
 
 labels:
   env: "staging"
-  cluster: "eks-cluster-blog"
+  cluster: "aks-cluster-blog"
 
 service:
   port: 80
